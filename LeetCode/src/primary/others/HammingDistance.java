@@ -1,4 +1,4 @@
-package others;
+package primary.others;
 
 /**
  * Created by HYDYD.

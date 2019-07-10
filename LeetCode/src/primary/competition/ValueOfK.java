@@ -1,7 +1,5 @@
-package competition;
+package primary.competition;
 
-import java.util.LinkedList;
-import java.util.Map;
 import java.util.Scanner;
 
 /**
@@ -14,7 +12,7 @@ public class ValueOfK {
 //        return nums.get(num - 1 - k);
 //    }
 //
-//    public static void main(String[] args) {
+//    public static void main(string[] args) {
 //        Scanner scanner = new Scanner(System.in);
 //        int num = scanner.nextInt();
 //        LinkedList<Integer> nums = new LinkedList<>();

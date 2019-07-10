@@ -1,4 +1,4 @@
-package competition;
+package primary.competition;
 
 /**
  * Created by HYDYD.

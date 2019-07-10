@@ -1,6 +1,5 @@
-package others;
+package primary.others;
 
-import java.rmi.Remote;
 import java.util.*;
 
 /**

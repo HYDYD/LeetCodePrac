@@ -1,13 +1,9 @@
-package interfaces;
+package primary.interfaces;
 
 /**
  * Created by HYDYD.
  * 2019/6/19 21:22
  */
-
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
 
 /**
  * 设计一个支持 push，pop，top 操作，并能在常数时间内检索到最小元素的栈。

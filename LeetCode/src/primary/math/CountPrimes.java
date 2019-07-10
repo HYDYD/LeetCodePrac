@@ -1,12 +1,9 @@
-package math;
+package primary.math;
 
 /**
  * Created by HYDYD.
  * 2019/6/21 12:41
  */
-
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * 统计所有小于非负整数 n 的质数的数量。

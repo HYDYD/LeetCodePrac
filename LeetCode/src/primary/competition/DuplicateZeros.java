@@ -1,7 +1,4 @@
-package competition;
-
-import java.util.LinkedList;
-import java.util.List;
+package primary.competition;
 
 /**
  * 给你一个长度固定的整数数组 arr，请你将该数组中出现的每个零都复写一遍，并将其余的元素向右平移。
